@@ -29,7 +29,7 @@ Power BI • Power Query • DAX • Excel • Python • Pandas • OpenPyXL
 
 ### 1. Executive Overview
 
-[insert screenshot]
+![Executive Overview](Screenshots/Executive%20Overview.png)
 
 Provides an executive-level overview of workforce size,
 department distribution, gender composition, hiring trends,
@@ -37,21 +37,21 @@ and employment status.
 
 ### 2. Employee & Department Analysis
 
-[insert screenshot]
+![Employee & Department Analysis](Screenshots/Employee%20%26%20Department%20Analysis.png)
 
 Provides detailed analysis of salary, location, position,
 department, gender, and employee-level information.
 
 ### 3. Workforce Trends & Insights
 
-[insert screenshot]
+![Workforce Trends & Insights](Screenshots/Workforce%20Trends%20%26%20Insights.png)
 
 Analyzes hiring, attrition, retention, workforce stability,
 employee movement, and tenure.
 
 ### 4. Employee Profile
 
-[insert screenshot]
+![Employee Profile](Screenshots/Employee%20Profile.png)
 
 Provides drill-through employee-level details.
 
